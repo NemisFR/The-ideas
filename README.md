@@ -4,4 +4,4 @@ If you have any suggestion, consider sending me a message on discord (username :
 
 ### KnightFall A daring Journey :
 - A mod that changes what will be displayed in chat according to this image :
-![](file:///C:/Users/tomko/Downloads/6081a6915df7f%20(1).png)
+![]([file:///C:/Users/tomko/Downloads/6081a6915df7f%20(1).png](https://github.com/NemisFR/The-ideas/blob/main/6081a6915df7f%20(1).png))
