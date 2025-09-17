@@ -8,6 +8,13 @@ If you have any <b>suggestion</b>, consider sending me a message on discord (use
 - A mod that let's you <b>change</b> your <b>name</b>, based on the input you give to the mod 🥷 ✅
 - A mod that display <b>player</b> name above their <b>heads</b> 🩸 ✅
 - This one gonna be <b>hard</b>, and I need to <i>learn</i> how to do it, but why not a mod that changes the <b>textures</b> and the <b>3D models</b> of the game😎
+- Change the scale of all game projectiles using the ProjectileScale class
+- Splash text using the TextSplash class and the PlaySplash method
+- Investigate PhotonServerConnector (ForceJoinRoom method). Could be pretty useful for a forced duo mod
+- Forced duo mod could also be made using a modified version of the StartGame method in the GM_Adventure
+- Could make some cool notifications using the NotificationHandler
+- LootDatabase could be used to make a no-icebook mod
+- Could use the Farm class to get the players location displayed on SeaCucumber
 - 
   
 ### R.E.P.O. :
